@@ -9,8 +9,8 @@ It builds the following ROM:
 
 * You must have a copy of the Super Mario Advance 2 ROM named `baserom.gba` in the repository directory.
 
-* Install [**devkitARM**](http://devkitpro.org/wiki/Getting_Started/devkitARM).
+* Install [**devkitARM**](https://github.com/devkitPro/installer/releases/tag/v3.0.3).
 
-* Then get the build tools from https://github.com/pret/pokeruby-tools. Copy the `tools/` folder into the repository directory.
+* Then get the build tools from https://github.com/Nisarg12/pokeruby-tools/tree/master/tools. Copy the `tools/` folder into the repository directory.
 
 * You can then build sma2 using `make` in the MSYS environment provided with devkitARM.
