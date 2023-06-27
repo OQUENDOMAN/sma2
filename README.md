@@ -11,6 +11,6 @@ It builds the following ROM:
 
 * Install [**devkitARM**](https://github.com/devkitPro/installer/releases/tag/v3.0.3).
 
-* Then get the build tools from https://github.com/Nisarg12/pokeruby-tools/tree/master/tools. Copy the `tools/` folder into the repository directory.
+* Then get the build tools from [Pokeruby-tools](https://github.com/pret/pokeruby) Copy the `tools/` folder into the repository directory.
 
 * You can then build sma2 using `make` in the MSYS environment provided with devkitARM.
